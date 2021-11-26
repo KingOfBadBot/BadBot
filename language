@@ -4,7 +4,7 @@
     "LANGCODE": "english",
     "AUTHOR": "BADBOY",
     "STRINGS": {
-        "_amdi": {
+        "_BADBOT": {
             "COMMAND": "Command",
             "DESC": "Description",
             "EXAMPLE": "Example",
